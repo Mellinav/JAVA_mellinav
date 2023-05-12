@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../POO"
+		},
+		{
+			"path": "../Estructurado"
+		},
+		{
+			"path": "../Interativa"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
